@@ -1,0 +1,48 @@
+.services {
+    padding: 50px 20px;
+    text-align: center;
+   }
+   .services h2 {
+    font-size: 36px;
+    margin-bottom: 40px;
+   }
+   .service-cards {
+    display: flex;
+    margin-top: 30px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+   }
+   .service-card {
+    background: #c18b3e87;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 300px;
+   }
+   .service-card h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+   }
+   .service-card p {
+    font-size: 16px;
+   }
+   .leftImg-card {
+    background: url('../assets/sectionimg2.jpg');
+    padding: 20px;
+    margin: 70px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 20rem;
+    height: 30rem;
+    background-size: cover;
+   }
+   .rightText-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: fit-content;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: 1px solid black;
+   }

@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   }
+   /* header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background: #c18b3e87;
+    color: #000000;
+   } */
+   .logo {
+    font-size: 24px;
+    font-weight: bold;
+   }

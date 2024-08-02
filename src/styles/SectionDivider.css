@@ -1,0 +1,11 @@
+.section-divider {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 0;
+   }
+   .divider-line {
+    height: 4px;
+    background: linear-gradient(90deg, #c60d0d0d, #dec3a0); /* Example gradient */
+    border-radius: 2px;
+   }
